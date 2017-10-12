@@ -10,6 +10,7 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */
 
+
 define('SEARCH_INDEX_URL', plugin_dir_url(__FILE__));
 define('SEARCH_INDEX_PATH', plugin_dir_path(__FILE__));
 
